@@ -4,7 +4,7 @@ A mobile-first planning map for three western Melbourne councils: **Brimbank, Mo
 
 Built with vanilla JavaScript and [Leaflet](https://leafletjs.com/) on live Vicmap WMS/WFS data. No framework, no build step. A Brimbank Spatial product.
 
-**Version:** v0.4 (the untouched single-file original is tagged `v0.4-original`).
+**Version:** v0.4. The untouched single-file original is the first commit, `2350dc5` ("Add MelbMaps v0.4 as deployed").
 
 ## Features
 
